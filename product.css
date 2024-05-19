@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    gap: 10px;
+
+}
+
+.main-container{
+    display: flex;
+  flex-direction: column;
+    background-color: antiquewhite;
+    align-items: center;
+    justify-content: center;
+    padding-left: 5px;
+    border-radius: 10px;
+    
+}
